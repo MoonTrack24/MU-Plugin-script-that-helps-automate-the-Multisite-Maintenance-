@@ -31,5 +31,6 @@ Error Logging: Enhanced error logging for better debugging.
 
 License Information: Added a License field in the plugin header for clarity.
 
-Please modifiy as needed.
+Please modifiy as needed. the myScript.php File can be simmly copy past under wp- mu0plugin as custom to be load with website load and run under background. 
+#  myScript.php #
 
