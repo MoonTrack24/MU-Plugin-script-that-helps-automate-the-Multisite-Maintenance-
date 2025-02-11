@@ -11,6 +11,7 @@
 ✅ Prevents entire network from crashing
 ✅ Reduces database bloat and excessive load issues
 ✅ Alerts the admin when a plugin is deactivated
+
 File upload location wp-content/mu-plugins/WP-Automation-maint
 
 This script will:
